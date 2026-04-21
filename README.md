@@ -81,11 +81,11 @@ VisionGameApp is an Android-based **AI-powered vision testing application** that
 
 ---
 
-## 📥 APK Download
+## 📥 APP Download
 
-👉 [Download VisionGameApp APK](link_to_apk)
+👉 [Download VisionGameApp APK](https://play.google.com/store/apps/details?id=com.ashish.visiongameapp)
 
-> Enable **Install from Unknown Sources** in your device settings before installing.
+>  **Install from playstore** in your device settings before installing.
 
 ---
 
@@ -97,7 +97,8 @@ VisionGameApp is an Android-based **AI-powered vision testing application** that
 ---
 
 ### 🎮 Games Dashboard
-![Games](https://github.com/user-attachments/assets/3726d7c4-1f37-4c65-ba66-0e8a82065cbd)
+![Games](<img width="371" height="831" alt="Screenshot 2026-03-28 140643" src="https://github.com/user-attachments/assets/2354923b-2b7e-484f-9d57-95ace54e51e0" />
+)
 
 ---
 
