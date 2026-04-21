@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/game_background">
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="@color/primary_color"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/btnBackPeripheral"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/baseline_arrow_back_24" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Peripheral Vision Test"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tvTrialPeripheral"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trial 1"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/level_badge"
+            android:padding="8dp" />
+    </LinearLayout>
+
+    <!-- Instruction -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tap the red dot as quickly as possible"
+        android:textSize="16sp"
+        android:textColor="@color/secondary_text"
+        android:textAlignment="center"
+        android:padding="16dp" />
+
+    <!-- Stimulus Area -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/ivStimulus"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/baseline_circle_24"
+            android:layout_gravity="center" />
+    </FrameLayout>
+
+    <!-- Reaction Time -->
+    <TextView
+        android:id="@+id/tvReactionPeripheral"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reaction Time: 0 ms"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+</LinearLayout>
