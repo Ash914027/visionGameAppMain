@@ -92,13 +92,13 @@ VisionGameApp is an Android-based **AI-powered vision testing application** that
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login](https://github.com/user-attachments/assets/b05bdb26-1ad3-451d-93af-ce5b09e97d7d)
+![Login](<img width="405" height="838" alt="Screenshot 2026-03-28 140625" src="https://github.com/user-attachments/assets/f4686caf-3973-4532-9b81-349e8e69ea9a" />)
 
 ---
 
 ### 🎮 Games Dashboard
-![Games](<img width="371" height="831" alt="Screenshot 2026-03-28 140643" src="https://github.com/user-attachments/assets/2354923b-2b7e-484f-9d57-95ace54e51e0" />
-)
+![Games](<img width="330" height="584" alt="Screenshot 2026-03-27 210836" src="https://github.com/user-attachments/assets/45fe9a57-4d7c-4efc-aaa5-71d1485ac3ef" />
+<img width="371" height="831" alt="Screenshot 2026-03-28 140643" src="https://github.com/user-attachments/assets/c1c10725-517b-405a-a5b4-b8ad778feffd" />)
 
 ---
 
