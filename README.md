@@ -6,6 +6,58 @@ VisionGameApp is an Android-based **AI-powered vision testing application** that
 > ⚠️ This app is for **screening purposes only** and does not replace professional medical diagnosis.
 
 ---
+## 📸 Screenshots
+
+)
+
+## 🔐 Login / Sign Up
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/772f854d-35e3-4174-a20a-7a3ea8759208" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b2c16205-272d-418d-bf61-3e2cf5c3c192" width="30%" />
+</p>
+
+---
+
+## 🎮 Game Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3eb6c6ad-0662-45e9-bfcc-8c88d146d4c5" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/14ec338a-8674-40c4-bdd8-934d205c0f6c" width="30%" />
+</p>
+
+---
+
+## 👁️ Vision Tests
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/216ed8d1-1f08-4906-9520-3cb6d78605e5" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2b573cee-2b21-4e81-9006-b04bcf46717d" width="30%"/>
+ />
+</p>
+
+---
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c4f823a-02ad-4a80-ba4b-1f4792d3d685" width="35%" />
+</p>
+
+---
+## 🔐Results  / progress
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b7a8f89-4dcb-42e7-80ab-cc93b3b54899" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b2c16205-272d-418d-bf61-3e2cf5c3c192" width="30%" />
+</p>
+
+---
+
 
 ## ✨ Key Features
 
@@ -89,21 +141,11 @@ VisionGameApp is an Android-based **AI-powered vision testing application** that
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login Screen
-![Login](<img width="405" height="838" alt="Screenshot 2026-03-28 140625" src="https://github.com/user-attachments/assets/f4686caf-3973-4532-9b81-349e8e69ea9a" />)
 
 ---
 
-### 🎮 Games Dashboard
-![Games](<img width="330" height="584" alt="Screenshot 2026-03-27 210836" src="https://github.com/user-attachments/assets/45fe9a57-4d7c-4efc-aaa5-71d1485ac3ef" />
-<img width="371" height="831" alt="Screenshot 2026-03-28 140643" src="https://github.com/user-attachments/assets/c1c10725-517b-405a-a5b4-b8ad778feffd" />)
 
----
 
-### 👁️ Visual Acuity Test
-![Acuity](https://github.com/user-attachments/assets/112e2920-0b82-4ef5-8459-7d0b15e00249)
 
 ---
 
